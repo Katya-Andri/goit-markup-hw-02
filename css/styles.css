@@ -50,11 +50,11 @@ a {
     font-style: normal;
 }
 
-.contacts-item {
+.contacts-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455; 
+    color: #434455;
 }
 
 .nav-link:hover,
@@ -77,14 +77,14 @@ a {
 }
 
 .sct-one-btn {
-    font-family: inherit;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
+    background-color: #4d5ae5;
 }
 
 .sct-two-text {
@@ -103,11 +103,11 @@ a {
 }
 
 .main-sct-three {
-    background-color: #f4f4fd;
+    background-color: #FFFFFF;
 }
 
 .sct-three-headline {
-
+    text-transform: capitalize;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -161,8 +161,6 @@ a {
 .page-footer {
     background-color: #2e2f42;
 }  
-
-
 
 .footer-p {
 font-size: 16px;
