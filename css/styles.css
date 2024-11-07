@@ -87,6 +87,12 @@ a {
     background-color: #4d5ae5;
 }
 
+.sct-one-btn:hover,
+.sct-one-btn:focus {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
 .sct-two-text {
     font-weight: 500;
     font-size: 20px;
@@ -99,11 +105,10 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .main-sct-three {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .sct-three-headline {
@@ -113,6 +118,10 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+}
+
+.sct-three-list {
+    background-color: #FFFFFF;
 }
 
 .sct-three-text {
@@ -129,12 +138,10 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
 }
 
 
 .sct-four-headline {
-    text-transform: capitalize;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -155,7 +162,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .page-footer {
